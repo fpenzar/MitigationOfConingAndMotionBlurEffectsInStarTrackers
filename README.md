@@ -4,7 +4,7 @@ This is repository contain the source code for the Master's thesis, _Mitigation 
 
 The thesis was conducted by Filip Penzar, under supervision of Associate Professor Mathias Benn, at the [_Measurement and Instrumentation Systems_](https://www.space.dtu.dk/english/research-divisions/measurement-and-instrumentation-systems), _Department of Space Research and Technology_.
 
-The thesis is available [here](TODO link).
+The thesis is available [here](MasterThesis_FilipPenzar.pdf).
 
 ## Installation
 
